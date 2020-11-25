@@ -1,0 +1,30 @@
+p {
+    color: green;
+    
+    
+}
+ul {
+    list-style-type: circle;
+    text-align: left;
+}
+.content {
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+}
+div {
+    color: gray;
+}
+q {
+    color: rgb(214, 63, 25);
+    font-style: italic
+}
+h1 {
+    font-style: oblique;
+    color: seagreen;
+}
+img {
+    border-style: double;
+    border-color: seagreen;
+}
